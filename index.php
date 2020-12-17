@@ -24,5 +24,8 @@
         <header>
             <h2>Cities</h2>
         </header>
+        <footer>
+            <p>Footer</p>
+        </footer>
     </body>
 </html>
